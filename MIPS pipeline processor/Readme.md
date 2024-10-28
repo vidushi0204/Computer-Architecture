@@ -1,4 +1,4 @@
-# COL216 Assignment 2 - Pipeline Simulation and Branch Prediction
+# Pipeline Simulation and Branch Prediction
 
 ## Overview:
 This project focuses on simulating different stages of instruction pipelines (5-stage and 7-9 stage) with and without bypassing. It also explores the performance impact of branch prediction strategies, including a 2-bit counter and a combination of branch history registers (BHR) and counters.
